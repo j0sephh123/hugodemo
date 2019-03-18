@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://localhost:50177/posts/eight/</loc>
+    <lastmod>2019-03-18T15:34:12+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:50177/posts/seventh/</loc>
+    <lastmod>2019-03-18T15:34:08+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:50177/posts/sixth/</loc>
+    <lastmod>2019-03-18T15:34:05+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:50177/posts/fifth/</loc>
+    <lastmod>2019-03-18T15:34:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:50177/posts/earthshaker/</loc>
+    <lastmod>2019-03-18T15:34:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:50177/posts/medusa/</loc>
+    <lastmod>2019-03-18T15:34:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:50177/posts/panda/</loc>
+    <lastmod>2019-03-18T15:34:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:50177/posts/visage/</loc>
+    <lastmod>2019-03-18T15:34:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:50177/posts/forth/</loc>
+    <lastmod>2019-03-18T15:33:57+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:50177/posts/third/</loc>
+    <lastmod>2019-03-18T15:33:52+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:50177/posts/second/</loc>
+    <lastmod>2019-03-18T15:33:50+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:50177/posts/first/</loc>
+    <lastmod>2019-03-18T15:33:45+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:50177/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:50177/</loc>
+    <lastmod>2019-03-18T15:34:12+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:50177/posts/</loc>
+    <lastmod>2019-03-18T15:34:12+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:50177/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
