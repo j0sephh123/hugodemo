@@ -101,4 +101,23 @@
       <description></description>
     </item>
     
- 
+    <item>
+      <title>Second</title>
+      <link>http://localhost:50177/posts/second/</link>
+      <pubDate>Mon, 18 Mar 2019 15:33:50 +0200</pubDate>
+      
+      <guid>http://localhost:50177/posts/second/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>First</title>
+      <link>http://localhost:50177/posts/first/</link>
+      <pubDate>Mon, 18 Mar 2019 15:33:45 +0200</pubDate>
+      
+      <guid>http://localhost:50177/posts/first/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
