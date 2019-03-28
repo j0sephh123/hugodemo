@@ -1,4 +1,5 @@
 travis.yml
+public/
 # Logs
 logs
 *.log

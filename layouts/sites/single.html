@@ -1,0 +1,30 @@
+<!-- {{ define "header" }}{{ partial "page-header.html" . }}{{ end }}
+{{ define "main" }}
+          {{ humanize .Section | upper  }}
+          {{ .Title }}
+        
+        {{ .Content }}
+      
+{{ end }} -->
+sites/single.html
+<div>Title: {{ .Title }}</div>
+<img src="{{ .Params.Picture }}" width="200" height="200">
+<div>Text1: {{ .Params.Text1 }}</div>
+<div>Text2: {{ .Params.Text2 }}</div>
+<div>Text3: {{ .Params.Text3 }}</div>
+<div>Terms: {{ .Params.Terms }}</div>
+<a href="{{ .Params.Buttonlink }}">
+        <button>{{ .Params.Button }}</button>
+</a>
+
+
+
+
+
+
+
+
+
+
+
+

@@ -3,94 +3,110 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://localhost:53338/posts/eight/</loc>
+    <loc>http://localhost:1313/posts/eight/</loc>
     <lastmod>2019-03-18T15:34:12+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:53338/posts/seventh/</loc>
+    <loc>http://localhost:1313/posts/seventh/</loc>
     <lastmod>2019-03-18T15:34:08+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:53338/posts/sixth/</loc>
+    <loc>http://localhost:1313/posts/sixth/</loc>
     <lastmod>2019-03-18T15:34:05+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:53338/posts/fifth/</loc>
+    <loc>http://localhost:1313/posts/fifth/</loc>
     <lastmod>2019-03-18T15:34:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:53338/posts/earthshaker/</loc>
+    <loc>http://localhost:1313/posts/earthshaker/</loc>
     <lastmod>2019-03-18T15:34:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:53338/posts/medusa/</loc>
+    <loc>http://localhost:1313/posts/medusa/</loc>
     <lastmod>2019-03-18T15:34:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:53338/posts/panda/</loc>
+    <loc>http://localhost:1313/posts/panda/</loc>
     <lastmod>2019-03-18T15:34:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:53338/posts/test/</loc>
+    <loc>http://localhost:1313/sites/sun-one/</loc>
     <lastmod>2019-03-18T15:34:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:53338/posts/visage/</loc>
+    <loc>http://localhost:1313/sites/sun-two/</loc>
     <lastmod>2019-03-18T15:34:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:53338/posts/forth/</loc>
+    <loc>http://localhost:1313/posts/test/</loc>
+    <lastmod>2019-03-18T15:34:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/posts/visage/</loc>
+    <lastmod>2019-03-18T15:34:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/posts/forth/</loc>
     <lastmod>2019-03-18T15:33:57+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:53338/posts/else/</loc>
+    <loc>http://localhost:1313/posts/else/</loc>
     <lastmod>2019-03-18T15:33:57+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:53338/posts/third/</loc>
+    <loc>http://localhost:1313/posts/third/</loc>
     <lastmod>2019-03-18T15:33:52+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:53338/posts/second/</loc>
+    <loc>http://localhost:1313/posts/second/</loc>
     <lastmod>2019-03-18T15:33:50+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:53338/posts/first/</loc>
+    <loc>http://localhost:1313/posts/first/</loc>
     <lastmod>2019-03-18T15:33:45+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:53338/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:53338/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2019-03-18T15:34:12+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:53338/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2019-03-18T15:34:12+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:53338/tags/</loc>
+    <loc>http://localhost:1313/sites/</loc>
+    <lastmod>2019-03-18T15:34:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/tags/</loc>
     <priority>0</priority>
   </url>
   
